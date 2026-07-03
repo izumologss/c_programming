@@ -1,0 +1,28 @@
+TASK
+  1. print sum of two intergers. (no scanf)
+  2. take input a and b and print sum of a and b (with scanf)
+  3. take input of your weight and print them.
+  4. take two intergers as input and exchange the values and print them 
+    
+C Variables:
+int - for whole numbers
+ data type "%d"
+float/double - for decimals
+ data type "%f", 
+ for 2numbers after decimals "%.2f"
+ float is for smaller numbers and double for larger ones
+char/string - example: a-z, A-Z 
+  char is for single characters like a, b, c
+  string for words, like HELLO, people
+
+DECLARATION, INTIALIZATION CONCEPTS 
+ int age // this is variable DECLARATION
+ age=20 // this is variable INTIALIZATION
+
+keywords in C - from slides (insert the image)
+scanf vs. printf 
+ scanf for input 
+  ("%d",&a);
+ printf for output
+  ("%d",a);
+& is called ampersand
